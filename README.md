@@ -2,4 +2,4 @@
 esto es un repo de prueba
 
 ## descripción
-aca no hay nada ponle lorem lorem lorem lorem 
+aca no hay nada ponle lorem lorem lorem
